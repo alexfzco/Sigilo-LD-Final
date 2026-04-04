@@ -1,2 +1,24 @@
-2026/04/01-19:08:01.498 6fa4 Creating DB C:/Users/aleja/OneDrive/Escritorio/SigiloLD/Sigilo-LD-Final/SigiloLD_Final/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2026/04/01-19:08:01.518 6fa4 Reusing MANIFEST C:/Users/aleja/OneDrive/Escritorio/SigiloLD/Sigilo-LD-Final/SigiloLD_Final/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/03-23:26:03.689 23f8 Reusing MANIFEST C:/Users/aleja/OneDrive/Escritorio/SigiloLD/Sigilo-LD-Final/SigiloLD_Final/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/04/03-23:26:03.697 23f8 Recovering log #14
+2026/04/03-23:26:03.698 23f8 Reusing old log C:/Users/aleja/OneDrive/Escritorio/SigiloLD/Sigilo-LD-Final/SigiloLD_Final/Saved/webcache_4430\Local Storage\leveldb/000014.log 
+2026/04/03-23:32:25.385 2280 Level-0 table #19: started
+2026/04/03-23:32:25.388 2280 Level-0 table #19: 90354 bytes OK
+2026/04/03-23:32:25.390 2280 Delete type=0 #14
+2026/04/03-23:33:21.499 23f8 Level-0 table #21: started
+2026/04/03-23:33:21.501 23f8 Level-0 table #21: 64202 bytes OK
+2026/04/03-23:33:21.503 23f8 Delete type=0 #18
+2026/04/03-23:33:35.871 2280 Level-0 table #23: started
+2026/04/03-23:33:35.880 2280 Level-0 table #23: 65563 bytes OK
+2026/04/03-23:33:35.881 2280 Delete type=0 #20
+2026/04/03-23:34:06.831 23f8 Level-0 table #25: started
+2026/04/03-23:34:06.838 23f8 Level-0 table #25: 66503 bytes OK
+2026/04/03-23:34:06.839 23f8 Delete type=0 #22
+2026/04/03-23:34:06.841 23f8 Compacting 4@0 + 1@1 files
+2026/04/03-23:34:06.844 23f8 Generated table #26@0: 3 keys, 33384 bytes
+2026/04/03-23:34:06.844 23f8 Compacted 4@0 + 1@1 files => 33384 bytes
+2026/04/03-23:34:06.844 23f8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/03-23:34:06.845 23f8 Delete type=2 #16
+2026/04/03-23:34:06.845 23f8 Delete type=2 #19
+2026/04/03-23:34:06.845 23f8 Delete type=2 #21
+2026/04/03-23:34:06.845 23f8 Delete type=2 #23
+2026/04/03-23:34:06.845 23f8 Delete type=2 #25
