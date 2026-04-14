@@ -1,5 +1,2 @@
-2026/04/13-11:28:46.526 4050 Reusing MANIFEST C:/Users/aleja/OneDrive/Escritorio/SigiloLD/Sigilo-LD-Final/SigiloLD_Final/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/04/13-11:28:46.534 4050 Recovering log #24
-2026/04/13-11:28:46.534 4050 Level-0 table #28: started
-2026/04/13-11:28:46.538 4050 Level-0 table #28: 68207 bytes OK
-2026/04/13-11:28:46.541 4050 Delete type=0 #24
+2026/04/14-14:24:46.920 9170 Creating DB C:/Users/Seraf/Documents/GitHub/Sigilo-LD-Final/SigiloLD_Final/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2026/04/14-14:24:46.925 9170 Reusing MANIFEST C:/Users/Seraf/Documents/GitHub/Sigilo-LD-Final/SigiloLD_Final/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
